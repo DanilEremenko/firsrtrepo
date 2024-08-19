@@ -28,13 +28,4 @@ publi statisc main(String[] args){
 	System.out.println("Java time");
 }
 ```
-```mermaid
-graph LR;
-  untracked -- "git add" --> staged;
-  staged    -- "git commit -m "Какой то текст описывающий коммит" "     --> tracked/comitted;
 
-%% стрелка без текста для примера: 
-  A --> B;
-%% и наоборот:
-  A <-- B;
-``` 
